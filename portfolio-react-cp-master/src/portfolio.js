@@ -3,7 +3,6 @@
 // Summary And Greeting Section
 
 import emoji from "react-easy-emoji";
-import React from "react";
 
 const illustration = {
   animated: true, // set to false to use static SVG
